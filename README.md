@@ -7,6 +7,6 @@ to add, remove, view all and view specific employess based upon their ID.
 
 Results returned in Postman in JSON format, Json dependency was added to pom.xml properties.
 
-![Screenshot](resources/REST_1.png)
+![Screenshot](https://github.com/Marqueb82/REST-employeeApp/blob/master/src/main/resources/REST_1.png)
 
 
