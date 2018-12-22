@@ -1,4 +1,4 @@
-# Web-employeeApp
+# REST-employeeApp
 
 Web service created using spring and tested with Postman.  
 
