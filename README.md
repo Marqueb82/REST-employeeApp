@@ -1,6 +1,6 @@
-# REST-employeeApp
+# Web-employeeApp
 
-RESTful Web service created using spring and tested with Postman.  
+Web service created using spring and tested with Postman.  
 
 Uses general get and post requests for mapping and service will allow user
 to add, remove, view all and view specific employess based upon their ID.
