@@ -31,7 +31,7 @@ public class EmpController {
 
 	@RequestMapping(value = "/findemployee", method = RequestMethod.GET)
 	@ResponseBody
-	public Employee employeeAdd(@RequestParam(value = "id") Integer id) {
+	public Employee employeefind(@RequestParam(value = "id") Integer id) {
 
 		return employees.get(id);
 	}
